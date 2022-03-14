@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kalpit1998.github.io/csb-pw730i/static/css/main.572e3376.chunk.css",
+    "main.js": "https://kalpit1998.github.io/csb-pw730i/static/js/main.2700db5c.chunk.js",
+    "main.js.map": "https://kalpit1998.github.io/csb-pw730i/static/js/main.2700db5c.chunk.js.map",
+    "runtime-main.js": "https://kalpit1998.github.io/csb-pw730i/static/js/runtime-main.418c31d5.js",
+    "runtime-main.js.map": "https://kalpit1998.github.io/csb-pw730i/static/js/runtime-main.418c31d5.js.map",
+    "static/js/2.257f16e1.chunk.js": "https://kalpit1998.github.io/csb-pw730i/static/js/2.257f16e1.chunk.js",
+    "static/js/2.257f16e1.chunk.js.map": "https://kalpit1998.github.io/csb-pw730i/static/js/2.257f16e1.chunk.js.map",
+    "index.html": "https://kalpit1998.github.io/csb-pw730i/index.html",
+    "static/css/main.572e3376.chunk.css.map": "https://kalpit1998.github.io/csb-pw730i/static/css/main.572e3376.chunk.css.map",
+    "static/js/2.257f16e1.chunk.js.LICENSE.txt": "https://kalpit1998.github.io/csb-pw730i/static/js/2.257f16e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.418c31d5.js",
+    "static/js/2.257f16e1.chunk.js",
+    "static/css/main.572e3376.chunk.css",
+    "static/js/main.2700db5c.chunk.js"
+  ]
+}
